@@ -1,6 +1,6 @@
 package say
 
 
-func CallFromSay string {
+func CallFromSay() string {
 	return "Say"
 }

@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/forgolang1/GoLangBasic/002_package/nested/say"
-	"github.com/forgolang1/GoLangBasic/002_package/nested/hello"
+	"github.com/KapaMiki/GolangLearning/002_package/nested/say"
+	"github.com/KapaMiki/GolangLearning/002_package/nested/hello"
 	"fmt"
 )
 

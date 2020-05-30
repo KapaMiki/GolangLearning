@@ -1,4 +1,5 @@
 package nestedPackage
 
 
-var AirplaneName = "Airbus"
+var airplaneName = "Airbus"
+var Airplane = "FlyArystan"

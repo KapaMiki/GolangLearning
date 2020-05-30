@@ -1,12 +1,9 @@
 package main
 
 
-import (
-	"fmt",
-	"github.com/KapaMiki/GolangLearning/002_package/"
-)
+import "fmt"
 
 
 func main {
-	fmt.Println(AirplaneName)
+	
 }
